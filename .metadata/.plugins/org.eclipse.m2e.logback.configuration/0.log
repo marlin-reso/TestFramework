@@ -1,0 +1,24 @@
+2024-04-19 16:29:22,928 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2024-04-19 16:38:37,879 [Worker-23: Creating project "GitDemo101"] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com:GitDemo101:0.0.1-SNAPSHOT @ C:\Users\sanjay\OneDrive\Documents\Framework\ImpexDocsAutomation\GitTestProject\GitDemo101\pom.xml.
+2024-04-19 16:38:38,027 [Worker-23: Creating project "GitDemo101"] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /GitDemo101/src/main/java
+2024-04-19 16:38:38,029 [Worker-23: Creating project "GitDemo101"] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /GitDemo101/src/main/resources
+2024-04-19 16:38:38,030 [Worker-23: Creating project "GitDemo101"] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /GitDemo101/src/test/java
+2024-04-19 16:38:38,030 [Worker-23: Creating project "GitDemo101"] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /GitDemo101/src/test/resources
+2024-04-19 16:38:39,279 [Worker-25: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-04-19 16:38:39,285 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-04-19 16:38:39,286 [Worker-25: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-04-19 16:38:39,287 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-04-19 16:47:39,210 [Worker-28: Creating project "TestNG"] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com:TestNG:0.0.1-SNAPSHOT @ C:\Users\sanjay\OneDrive\Documents\Framework\ImpexDocsAutomation\GitTestProject\TestNG\pom.xml.
+2024-04-19 16:47:39,269 [Worker-28: Creating project "TestNG"] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /TestNG/src/main/java
+2024-04-19 16:47:39,270 [Worker-28: Creating project "TestNG"] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /TestNG/src/main/resources
+2024-04-19 16:47:39,270 [Worker-28: Creating project "TestNG"] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /TestNG/src/test/java
+2024-04-19 16:47:39,270 [Worker-28: Creating project "TestNG"] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /TestNG/src/test/resources
+2024-04-19 16:47:39,506 [Worker-26: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-04-19 16:47:39,508 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-04-19 16:47:39,510 [Worker-26: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-04-19 16:47:39,510 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-04-19 16:48:12,310 [Worker-26: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-04-19 16:48:12,312 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-04-19 16:48:12,314 [Worker-26: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-04-19 16:48:12,315 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-04-19 20:02:48,190 [Worker-3: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
